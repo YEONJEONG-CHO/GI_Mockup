@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>GENTLE INSPIRATION</title>
+    <meta name="description" content="GENTLE INSPIRATION MOCKUP">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="GENTLE INSPIRATION">
+    <meta property="og:image" content=""><!--  800x400  -->
+
+    <link rel="stylesheet" href="css/normalize.css">
+
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div class="container">
+    <header class="monster-header" data-color="w" include-html="layout/header-sub.html"></header>
+
+    <div class="sub-contents">
+
+    </div>
+
+    <footer include-html="layout/footer.html"></footer>
+</div>
+
+
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/vendor/jquery-3.5.1.min.js"></script>
+<script src="js/component.js"></script>
+<script src="js/sub.js"></script>
+<script src="js/includeHTML.js"></script>
+
+<script>
+    includeHTML();
+    $(document).ready(function () {
+        let pageActiveColor = $('header').data('color');
+        $('.monster1-navi').attr("src","./asset/img/header/monster1-w.png");
+    });
+</script>
+
+</body>
+</html>
