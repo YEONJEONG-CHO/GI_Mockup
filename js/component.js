@@ -9,6 +9,7 @@ function utilBtn(id) {
 
 function searchBtn() {
     let searchText = $('#searchTxt').val();
-    alert("테스트");
+    alert(`${searchText} <- 입력
+    검색기능 준비 중 입니다.`);
 }
 
