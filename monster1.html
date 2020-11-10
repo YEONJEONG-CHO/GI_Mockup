@@ -34,9 +34,10 @@
 
 <script>
     includeHTML();
-    $(window).onload(function () {
+    function changeImg() {
         $('.monster1-navi').attr("src","./asset/img/header/monster1-w.png");
-    });
+    }
+    setTimeout(changeImg, 500)
 </script>
 
 </body>
