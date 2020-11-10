@@ -277,16 +277,40 @@ a > img {
   position: relative;
   z-index: 1;
   width: 100%;
-  height: 200vh;
+  min-height: 100vh;
 }
 
 /* footer */
-footer > div {
-  opacity: 0;
+footer {
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
-footer > div.on {
-  opacity: 1;
+.main-footer,
+.gmpick-footer {
+  background: #fff;
+}
+
+.board-footer,
+.monster1-footer {
+  background: #000;
+}
+
+footer > div {
+  display: none;
+}
+
+.main-footer .type-black,
+.gmpick-footer .type-black {
+  display: block;
+}
+
+.board-footer .type-white,
+.monster1-footer .type-white {
+  display: block;
 }
 
 /* header */
