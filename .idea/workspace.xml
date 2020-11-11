@@ -19,10 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="background">
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="input color #fff">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header-board-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-board-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header-board.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail-gmpick-artists.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail-gmpick-artists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail-gmpick-kanye.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail-gmpick-kanye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail-gmpick-scifi.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail-gmpick-scifi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail-gmpick-show.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail-gmpick-show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/gmpick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/list-gmpick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monster1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monster1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +84,7 @@
       <workItem from="1604974966838" duration="765000" />
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
-      <workItem from="1605011155067" duration="7802000" />
+      <workItem from="1605011155067" duration="8484000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -158,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605066376076</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="input color #fff">
+      <created>1605066542084</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605066542084</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +203,8 @@
     <MESSAGE value="set time out" />
     <MESSAGE value="upload imgs" />
     <MESSAGE value="background" />
-    <option name="LAST_COMMIT_MESSAGE" value="background" />
+    <MESSAGE value="input color #fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="input color #fff" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605054476002">
@@ -214,10 +227,10 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605066379783">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605066545587">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605066379783" />
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605066545587" />
     <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
