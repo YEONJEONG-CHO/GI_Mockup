@@ -19,107 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="set time out">
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_artists_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_kanye_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_sci-fi_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/GM_show_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_KATJA-NOVITSKOVA_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_KATJA-NOVITSKOVA_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_KATJA-NOVITSKOVA_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_biden_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_biden_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_biden_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_gucci-epilogue_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_gucci-epilogue_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_gucci-epilogue_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_tenet_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_tenet_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_tenet_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_watchdogs_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_watchdogs_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_watchdogs_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/detail/board_watchdogs_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/footer-n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/header-n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/board_biden.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/board_gucci epilogue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/board_katjanovitskova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/board_tenet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/board_watchdogs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/gm_artists.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/gm_kanye.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/gm_sci-fi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/list/gm_show.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_biden_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_biden_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_gucci epilogue_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_gucci epilogue_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_katjanovitskova_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_katjanovitskova_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_tenet_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_tenet_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_watchdogs_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/board_watchdogs_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/gm_artists.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/gm_kanye.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/gm_sci-fi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/thumbnail/gm_show.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-board-biden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-board-gucci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-board-katja.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-board-tenet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-board-watchdogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-gmpick-artists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-gmpick-kanye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-gmpick-scifi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail-gmpick-show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/board-biden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/board-gucci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/board-katja.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/board-tenet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/board-watchdogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/gmpick-artists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/gmpick-kanye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/gmpick-scifi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detail/gmpick-show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/header-board-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/header-board.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/header-gmpick-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/header-gmpick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/header-monster1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list-board.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list-gmpick.html" afterDir="false" />
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="upload imgs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board.html" beforeDir="false" afterPath="$PROJECT_DIR$/board.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/gmpick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header-sub-w.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header-sub.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/list-gmpick.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/monster1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monster1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +79,7 @@
       <workItem from="1604974966838" duration="765000" />
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
-      <workItem from="1605011155067" duration="7082000" />
+      <workItem from="1605011155067" duration="7639000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -242,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605011429685</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="upload imgs">
+      <created>1605061271904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605061271904</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +182,8 @@
     <MESSAGE value="search text" />
     <MESSAGE value="window onload" />
     <MESSAGE value="set time out" />
-    <option name="LAST_COMMIT_MESSAGE" value="set time out" />
+    <MESSAGE value="upload imgs" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload imgs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605054476002">
@@ -296,10 +206,10 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605011434625">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605061447203">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605011434625" />
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605061447203" />
     <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
