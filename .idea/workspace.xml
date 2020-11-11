@@ -19,14 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="audio set">
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/05.jpg" afterDir="false" />
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="monster1 page">
+      <change afterPath="$PROJECT_DIR$/asset/img/header/list-btn-b-act.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/header/list-btn-w-act.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monster1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monster1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header-board-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-board-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header-gmpick-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-gmpick-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +62,11 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/img/header" />
       <recent name="$PROJECT_DIR$/asset/img/monster1" />
       <recent name="$PROJECT_DIR$/asset/img" />
       <recent name="$PROJECT_DIR$/asset" />
       <recent name="$PROJECT_DIR$/audio" />
-      <recent name="$PROJECT_DIR$/asset/img/detail" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,7 +82,7 @@
       <workItem from="1604974966838" duration="765000" />
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
-      <workItem from="1605011155067" duration="10643000" />
+      <workItem from="1605011155067" duration="11334000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605069031875</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="monster1 page">
+      <created>1605069594537</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605069594537</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +233,8 @@
     <MESSAGE value="background color" />
     <MESSAGE value="background color 2" />
     <MESSAGE value="audio set" />
-    <option name="LAST_COMMIT_MESSAGE" value="audio set" />
+    <MESSAGE value="monster1 page" />
+    <option name="LAST_COMMIT_MESSAGE" value="monster1 page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605068241476">
@@ -250,10 +257,10 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605069035675">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605069633330">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605069035675" />
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605069633330" />
     <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
