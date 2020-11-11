@@ -273,9 +273,14 @@ a > img {
   }
 }
 
-.container {
+body, html {
   position: relative;
   z-index: 1;
+}
+
+.container {
+  /*position: relative;*/
+  /*z-index: 1;*/
   width: 100%;
   min-height: 100vh;
 }
