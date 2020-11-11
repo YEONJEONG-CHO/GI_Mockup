@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="audio 3">
-      <change beforePath="$PROJECT_DIR$/detail/board-watchdogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail/board-watchdogs.html" afterDir="false" />
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="modify detail">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-board.html" beforeDir="false" afterPath="$PROJECT_DIR$/list-board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/list-gmpick.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,7 @@
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
       <workItem from="1605011155067" duration="11622000" />
-      <workItem from="1605070716433" duration="654000" />
+      <workItem from="1605070716433" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -227,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605071266281</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="modify detail">
+      <created>1605071386768</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605071386768</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +279,8 @@
     <MESSAGE value="list 5" />
     <MESSAGE value="audio 2" />
     <MESSAGE value="audio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="audio 3" />
+    <MESSAGE value="modify detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify detail" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605068241476">
@@ -293,14 +303,14 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605071271020">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605071390133">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605071271020" />
-    <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605071390133" />
+    <state x="646" y="462" width="1212" height="790" key="dock-window-1" timestamp="1605071652609">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="125" y="485" width="1143" height="794" key="dock-window-1/39.23.1881.1177@39.23.1881.1177" timestamp="1605060792341" />
+    <state x="646" y="462" width="1212" height="790" key="dock-window-1/39.23.1881.1177@39.23.1881.1177" timestamp="1605071652609" />
     <state x="39" y="23" width="1143" height="794" key="dock-window-2" timestamp="1605060837978">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
