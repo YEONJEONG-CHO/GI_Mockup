@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="background color 2">
-      <change afterPath="$PROJECT_DIR$/asset/audio/Chopin Nocturne No.13 In C Minor, Op.48 No.1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/monster1/audio.jpeg" afterDir="false" />
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="audio set">
+      <change afterPath="$PROJECT_DIR$/asset/img/monster1/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/monster1/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/monster1/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/monster1/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/monster1/05.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/monster1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monster1.html" afterDir="false" />
     </list>
@@ -80,7 +83,7 @@
       <workItem from="1604974966838" duration="765000" />
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
-      <workItem from="1605011155067" duration="10085000" />
+      <workItem from="1605011155067" duration="10643000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605067630053</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="audio set">
+      <created>1605069031875</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605069031875</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +226,8 @@
     <MESSAGE value="input color #fff" />
     <MESSAGE value="background color" />
     <MESSAGE value="background color 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="background color 2" />
+    <MESSAGE value="audio set" />
+    <option name="LAST_COMMIT_MESSAGE" value="audio set" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605068241476">
@@ -239,10 +250,10 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605067636682">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605069035675">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605067636682" />
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605069035675" />
     <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
