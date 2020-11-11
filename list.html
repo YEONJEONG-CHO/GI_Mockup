@@ -16,26 +16,64 @@
 </head>
 <body>
 <div class="container">
-    <header include-html="layout/header-sub.html"></header>
+    <img src="./asset/img/header-n.png" alt="">
+    <header class="main-header" include-html="layout/header-list.html"></header>
+    <div class="contents list-contents">
+        <div class="list-item gmpick-item" onclick="location.href='detail-gmpick-scifi.html'">
+            <img src="./asset/img/list/gm_sci-fi.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-gucci.html'">
+            <img src="./asset/img/list/board_gucci%20epilogue.jpg" alt="">
+        </div>
+        <div class="list-item gmpick-item" onclick="location.href='detail-gmpick-show.html'">
+            <img src="./asset/img/list/gm_show.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-biden.html'">
+            <img src="./asset/img/list/board_biden.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-watchdogs.html'">
+            <img src="./asset/img/list/board_watchdogs.jpg" alt="">
+        </div>
+        <div class="list-item gmpick-item" onclick="location.href='detail-gmpick-kanye.html'">
+            <img src="./asset/img/list/gm_kanye.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-katja.html'">
+            <img src="./asset/img/list/board_katjanovitskova.jpg" alt="">
+        </div>
 
-    <div class="constents list-contents">
+        <div class="list-item gmpick-item" onclick="location.href='detail-gmpick-artists.html'">
+            <img src="./asset/img/list/gm_artists.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-tenet.html'">
+            <img src="./asset/img/list/board_tenet.jpg" alt="">
+        </div>
 
+        <div class="list-item board-item" onclick="location.href='detail-board-katja.html'">
+            <img src="./asset/img/list/board_gucci%20epilogue.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-biden.html'">
+            <img src="./asset/img/list/board_biden.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-watchdogs.html'">
+            <img src="./asset/img/list/board_watchdogs.jpg" alt="">
+        </div>
+        <div class="list-item board-item" onclick="location.href='detail-board-tenet.html'">
+            <img src="./asset/img/list/board_tenet.jpg" alt="">
+        </div>
     </div>
-
-    <footer include-html="layout/footer.html"></footer>
+    <footer class="main-footer" include-html="layout/footer.html"></footer>
+    <img src="./asset/img/footer-n.png" alt="">
 </div>
 
+    <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+    <script src="js/vendor/jquery-3.5.1.min.js"></script>
+    <script src="js/component.js"></script>
+    <script src="js/sub.js"></script>
+    <script src="js/includeHTML.js"></script>
 
-<script src="js/vendor/modernizr-3.11.2.min.js"></script>
-<script src="js/vendor/jquery-3.5.1.min.js"></script>
-<script src="js/component.js"></script>
-<script src="js/sub.js"></script>
-<script src="js/includeHTML.js"></script>
-
-<script>
-
-    includeHTML();
-</script>
+    <script>
+        includeHTML();
+    </script>
 
 </body>
 </html>

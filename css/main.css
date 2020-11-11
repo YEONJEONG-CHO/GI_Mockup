@@ -290,13 +290,16 @@ footer {
 }
 
 .main-footer,
-.gmpick-footer {
+.board-footer {
   background: #fff;
 }
 
-.board-footer,
-.monster1-footer {
+.gmpick-footer {
   background: #000;
+}
+
+.monster1-footer {
+  background: #ff1e00;
 }
 
 footer > div {
@@ -304,12 +307,12 @@ footer > div {
 }
 
 .main-footer .type-black,
-.gmpick-footer .type-black {
+.board-footer .type-black,
+.monster1-footer .type-black {
   display: block;
 }
 
-.board-footer .type-white,
-.monster1-footer .type-white {
+.gmpick-footer .type-white {
   display: block;
 }
 
@@ -408,4 +411,16 @@ header.sticky .navi-top {
 
 .navi-list.on {
   display: block;
+}
+
+/* main */
+.gmpick-item {
+  border-bottom: 1px solid #fff;
+}
+.board-item {
+  border-bottom: 1px solid #000;
+}
+
+.contents > div:last-child {
+  border-bottom: none !important;
 }

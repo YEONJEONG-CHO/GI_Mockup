@@ -1,5 +1,10 @@
-function menuBtn() {
+function menuBtn(id) {
     $('.navi-list').toggleClass('on');
+    if(!$(id).hasClass('on')){
+        $(id).addClass('on');
+    }else{
+        window.location.href='board.html';
+    }
 }
 
 function utilBtn(id) {

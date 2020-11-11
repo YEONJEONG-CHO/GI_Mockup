@@ -15,14 +15,16 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<div class="container">
-    <header class="monster-header" include-html="layout/header-sub.html"></header>
+<div class="container" style="background: #ff1e00">
+    <img src="./asset/img/header-n.png" alt="">
+    <header class="monster-header" include-html="layout/header-monster1.html"></header>
 
-    <div class="constents sub-contents">
+    <div class="contents sub-contents">
 
     </div>
 
     <footer class="monster1-footer" include-html="layout/footer.html"></footer>
+    <img src="./asset/img/footer-n.png" alt="">
 </div>
 
 
@@ -34,10 +36,6 @@
 
 <script>
     includeHTML();
-    function changeImg() {
-        $('.monster1-navi').attr("src","./asset/img/header/monster1-w.png");
-    }
-    setTimeout(changeImg, 500)
 </script>
 
 </body>
