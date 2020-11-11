@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="upload imgs">
+    <list default="true" id="85310a38-9c1d-433f-a4e6-bf4ae0e4baa0" name="Default Changelist" comment="background">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-gmpick.html" beforeDir="false" afterPath="$PROJECT_DIR$/list-gmpick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monster1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monster1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header-board-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-board-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/header-board.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/header-board.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1604974966838" duration="765000" />
       <workItem from="1604975866326" duration="13392000" />
       <workItem from="1604999335201" duration="882000" />
-      <workItem from="1605011155067" duration="7639000" />
+      <workItem from="1605011155067" duration="7802000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1604995988600</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605061271904</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="background">
+      <created>1605066376076</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605066376076</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +190,8 @@
     <MESSAGE value="window onload" />
     <MESSAGE value="set time out" />
     <MESSAGE value="upload imgs" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload imgs" />
+    <MESSAGE value="background" />
+    <option name="LAST_COMMIT_MESSAGE" value="background" />
   </component>
   <component name="WindowStateProjectService">
     <state x="671" y="516" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605054476002">
@@ -206,10 +214,10 @@
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
     <state x="446" y="206" key="SettingsEditor/39.23.1881.1177@39.23.1881.1177" timestamp="1604995299976" />
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605061447203">
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2" timestamp="1605066379783">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
-    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605061447203" />
+    <state x="544" y="307" key="Vcs.Push.Dialog.v2/39.23.1881.1177@39.23.1881.1177" timestamp="1605066379783" />
     <state x="125" y="485" width="1143" height="794" key="dock-window-1" timestamp="1605060792341">
       <screen x="39" y="23" width="1881" height="1177" />
     </state>
